@@ -1,5 +1,5 @@
 # manhattan-issues
-Issue tracking for Manhattan (http://nash.audio/manhattan).
+Issue tracking for Manhattan music editor and programming language, including the Manhattan API and game music engine.
 
 This is a public repository tracking the changes, bug reports, and feature requests for the Manhattan software (https://nash.audio/manhattan).
 
