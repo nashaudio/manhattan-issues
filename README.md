@@ -2,6 +2,8 @@
 
 This page is used to raise and view changes, bug reports, and feature requests for the Manhattan music editor and programming language, including the Manhattan API and game music engine (https://nash.audio/manhattan).
 
+To download the latest version of the Manhattan software, search "Manhattan" on Steam.
+
 INSTRUCTIONS / GUIDELINES:
 
 - To contribute, email __support@nash.audio__ to be added as a software tester, tell us a little about your background. You will need a (free) GitHub account.
@@ -12,3 +14,11 @@ INSTRUCTIONS / GUIDELINES:
 - Once submitted, issues will be commented and tagged by the developer to let you know the status and priority.
 - Issues are closed when they are either addressed (fixed or added), rejected as non-issues, or archived for future consideration.
 - Be constructive and supportive to other users; abusive or inflamatory language will be reported.
+
+MILESTONES:
+
+- v2.0 Beta 11 - the next planned released.
+- RC1 - the first release candidate (all funcitonality, partial documentation)
+- RC2 - the second release candidate (all functionality, full documentation)
+- GA - initial public release version (general availability, end of Steam Early Access)
+- v2.1 or later - future update (additional or functionality)
