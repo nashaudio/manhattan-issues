@@ -4,9 +4,9 @@ This page is used to raise and view changes, bug reports, and feature requests f
 
 To download the latest version of the Manhattan software, search "Manhattan" on Steam.
 
-## INSTRUCTIONS / GUIDELINES
+## GUIDELINES
 
-- To contribute, email __support@nash.audio__ to be added as a software tester, tell us a little about your background. You will need a (free) GitHub account.
+- To contribute, email __support@nash.audio__ to be added as a software tester, tell us a little about your background. You will need a (free) GitHub account. All users welcome - developers, testers, users, artists, educators, students, etc.
 - Use the __ISSUES__ tab to view and create issues. This repository does not contain any source code.
 - Please describe the feature or bug in as much detail as possible - do not add any tags (these will be added by the developers).
 - English is preferred, but feel free to use your native language to add detail or be more precise.
