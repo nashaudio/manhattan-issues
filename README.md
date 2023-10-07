@@ -1,12 +1,10 @@
-# manhattan-issues
-Issue tracking for Manhattan music editor and programming language, including the Manhattan API and game music engine.
+# Manhattan Issue Tracker.
 
-This is a public repository tracking the changes, bug reports, and feature requests for the Manhattan software (https://nash.audio/manhattan).
-
-__If you would like to contribute and become a Beta Tester, please sign up for a free GitHub account and email support@nash.audio.__
+This page is used to raise and view changes, bug reports, and feature requests for the Manhattan music editor and programming language, including the Manhattan API and game music engine (https://nash.audio/manhattan).
 
 INSTRUCTIONS / GUIDELINES:
 
+- To contribute, email __support@nash.audio__ to be added as a software tester, tell us a little about your background. You will need a (free) GitHub account.
 - Use the __ISSUES__ tab to view and create issues. This repository does not contain any source code.
 - Please describe the feature or bug in as much detail as possible - do not add any tags (these will be added by the developers).
 - English is preferred, but feel free to use your native language to add detail or be more precise.
