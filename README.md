@@ -21,7 +21,7 @@ To download the latest version of the Manhattan software, search "Manhattan" on 
 - RC1 - the first release candidate (all funcitonality, partial documentation)
 - RC2 - the second release candidate (all functionality, full documentation)
 - GA - initial public release version (general availability, end of Steam Early Access)
-- v2.1 or later - future update (additional or functionality)
+- v2.1 or later - future update (additional functionality for future consideration)
 
 ## LABELS
 
